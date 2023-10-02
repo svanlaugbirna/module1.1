@@ -1,1 +1,0 @@
-<button onclick="getLocation()">Try It</button>
